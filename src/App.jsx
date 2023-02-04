@@ -9,7 +9,8 @@ import {
   Intro,
   Laurels,
   SpecialMenu,
-} from "./components";
+} from "./container";
+import { Navbar } from "./components";
 
 import "./App.css";
 
